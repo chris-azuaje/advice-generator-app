@@ -70,10 +70,10 @@ body {
 
 #advice_btn:hover {
   cursor: pointer;
+  box-shadow: 0px 0px 20px 0px var(--neon-green);
 }
 
 .divider {
-  margin-top: 15px;
   width: 100%;
 }
 
@@ -89,6 +89,7 @@ body {
 
   #advice {
     font-size: 19px;
+    margin: 15px 0;
   }
 
   .divider {
